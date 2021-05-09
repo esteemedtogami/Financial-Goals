@@ -1,0 +1,2 @@
+rootProject.name = "Financial Goals"
+include ':app'
