@@ -2,4 +2,7 @@
     <string name="app_name">Financial Goals</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="text_total">Total: </string>
+    <string name="default_amount">0</string>
+    <string name="add_goal">Add Goal</string>
 </resources>
